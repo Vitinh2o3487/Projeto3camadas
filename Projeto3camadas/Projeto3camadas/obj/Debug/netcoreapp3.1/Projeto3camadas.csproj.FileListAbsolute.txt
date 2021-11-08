@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\bin\Debug\netcoreapp3.1\Projeto3camadas.exe
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\bin\Debug\netcoreapp3.1\Projeto3camadas.deps.json
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\bin\Debug\netcoreapp3.1\Projeto3camadas.runtimeconfig.json
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\bin\Debug\netcoreapp3.1\Projeto3camadas.runtimeconfig.dev.json
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\bin\Debug\netcoreapp3.1\Projeto3camadas.dll
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\bin\Debug\netcoreapp3.1\Projeto3camadas.pdb
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.AssemblyInfo.cs
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.dll
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.pdb
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.genruntimeconfig.cache
+C:\Users\User\source\repos\Projeto3camadas\Projeto3camadas\obj\Debug\netcoreapp3.1\Projeto3camadas.Ui.Frm_Medicamentos.resources
